@@ -13,7 +13,7 @@
 
 # Online Polls
 #### Brief description of application
-Almost every service currently is going digital where every can access it via web based platform. The primary objective of this project is to find solution for polls accessibility wherein the user can create polls to get responses from other user freely. This kind of project has been recently implimented by Meta Company,deploying the polls feature on Whatsapp and Facebook social media.
+Almost every service currently is going digital where anyone can access it via web based platform. The primary objective of this project is to find solution for polls accessibility wherein the user can create polls to get responses from other user freely. This kind of project has been recently implimented by Meta Company,deploying the polls feature on Whatsapp and Facebook social media.
 
 To solve this problem,  I have decided to create a polls website that helps clients who want to conduct polls and get responses. 
 ## Project Features
@@ -29,7 +29,7 @@ To solve this problem,  I have decided to create a polls website that helps clie
 * Logs in user to the posts page when their username and password are verified
 * Signs up user to enable the use the application
 * User can create polls and get other users respond on their polls
-* User can comment on a particular post
+* User remain logged in when browser refreshes. 
 * User are logged out.
 
 
@@ -68,7 +68,7 @@ To solve this problem,  I have decided to create a polls website that helps clie
 
 
 ### Link To Backend Repo
-[Backend Repo](https://github.com/Murage-Ivy/restro-backend)
+[Backend Repo](https://github.com/ferdinandmukodo/pollsbackend)
 
 ## Bugs & Fixes / Feature request
 In case you find a bug, kindly open an issue [here](https://github.com/ferdinandmukodo/onlinepollings/issues/new). Include your query and your expected results.
