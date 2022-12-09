@@ -75,7 +75,7 @@ In case you find a bug, kindly open an issue [here](https://github.com/ferdinand
 
 ## version to be used 
 rvm -v 2.7.4
-
+Ruby version 3.0.0
 
 ## Author
 Ferdinand Mukodo
