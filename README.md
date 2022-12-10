@@ -47,7 +47,7 @@ To solve this problem,  I have decided to create a polls website that helps clie
   `git clone [<path to  repo>](https://github.com/ferdinandmukodo/)`
 * Navgiate to the cloned repo
   <br/>
-  `cd /restro` 
+  `cd / onlinepollings` 
 *  Open the cloned repo on your visual studio by using this command:
    <br/>
   ` code . `
